@@ -21,6 +21,7 @@ print ("Rotating 180 degrees in 10 steps")
 duty = 2
 
 # Loop for duty values from 2 to 12 (0 to 180 degrees)
+print ("Testing servo full course")
 while duty <= 12:
     servo1.ChangeDutyCycle(duty)
     time.sleep(1)
@@ -30,8 +31,8 @@ while duty <= 12:
 time.sleep(2)
 
 # Turn back to 90 degrees
-print ("Zeroing back to 90 degrees")
-servo1.ChangeDutyCycle(7)
+print ("Zeroing back to 0 degrees")
+servo1.ChangeDutyCycle(2)
 time.sleep(0.5)
 servo1.ChangeDutyCycle(0)
 
