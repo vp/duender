@@ -15,22 +15,22 @@ Servo myTestSubject;  // Declare servo object
 void setup() {
 Serial.begin(9600);
 myTestSubject.attach(servoPin);
-    pos=0;  //  Move servo to position 0 = minimum position
+    pos=0;  // Move servo to position 0 = minimum position
     myTestSubject.write(pos);
     Serial.println(pos);  // Display position 
     delay(servoDelay);
 
-    pos=90;  //  Move servo to position 90 = middle position
+    pos=90;  // Move servo to position 90 = middle position
     myTestSubject.write(pos);
     Serial.println(pos);  // Display position 
     delay(servoDelay);
 
-    pos=180;  //  Move servo to position 180 = maximum position
+    pos=180;  // Move servo to position 180 = maximum position
     myTestSubject.write(pos);
     Serial.println(pos);  // Display position 
     delay(servoDelay);
 
-    pos=90;  //  Move servo to position 90 = the neutral position
+    pos=90;  // Move servo to position 0 = min position (zero as MedusaHC script)
     myTestSubject.write(pos);
     Serial.println(pos);  // Display position 
     delay(servoDelay);
