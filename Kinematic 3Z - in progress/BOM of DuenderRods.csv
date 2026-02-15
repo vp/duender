@@ -1,0 +1,64 @@
+Item,Quantity,Description,Product line
+1,2,4040-A 290mm extrusion,Ender 3 part
+2,2,4040-A 290m extrusion,Ender 3 part
+3,4,2040-B 400mm extrusion,Ender 3 part
+4,3,2040-C 345mm extrusion,Ender 3 part
+5,2,2020-E 345mm extrusion,Ender 3 part
+6,5,Nema 17 42-34 motor,Ender 3 part
+7,3,T8 lead screw,Ender 3 part
+8,3,Motor coupler D5/8,Ender 3 part
+9,1,235x235 Heat bed,Ender 3 part
+10,1,2020V 300mm,Extrusion
+11,2,2020V 200mm,Extrusion
+12,3,M5x16 BHCS,Fastener
+13,5,M5 Hex nut,Fastener
+14,21,M3x6 BHCS,Fastener
+15,28,M3x5x4 Heat set insert,Fastener
+16,3,TR8x8 leadscrew nut,Fastener
+17,95,M5x8 BHCS,Fastener
+18,41,M5 T-slot nut,Fastener
+19,46,M3x8 SHCS,Fastener
+20,2,M5x25SHCS,Fastener
+21,24,M3 T-slot nut,Fastener
+22,2,M3 Hammerhead nut,Fastener
+23,6,M3x35 SHCS,Fastener
+24,14,M3x30 SHCS,Fastener
+25,2,M3x20 SHCS,Fastener
+26,4,M4x30 FHCS,Fastener
+27,3,GE5C bearing,Fastener
+28,4,12mm silicone spacer,Hardware
+29,6,8x350mm linear rod,Kinematics
+30,6,8x15x24 LM8UU,Kinematics
+31,64,M3x0.5mm shim,Kinematics
+32,2,M3x10mm spacer,Kinematics
+33,8,M3 pin,Kinematics
+34,10,16T 6W 3B toothless idler,Kinematics
+35,2,GT2 16T 6W 5B pulley,Kinematics
+36,2,F695-2RS bearing,Kinematics
+37,3,MGN9H 300mm rail,Kinematics
+38,3,MGN9H carriage,Kinematics
+39,1,GT2 6mm belt approx. 1.5m,Kinematics
+40,1,GT2 6mm belt  approx. 1.5m,Kinematics
+41,2,16T6W3B toothed idler,Kinematics
+42,4,Z spacer,Printed part
+43,3,Z motor holder back,Printed part
+44,3,Z spacer,Printed part
+45,1,AB motor mount BottomLeft,Printed part
+46,1,AB motor mount TopLeft,Printed part
+47,2,Carriage stopper,Printed part
+48,1,Belt tensioner left,Printed part
+49,1,Front hold left,Printed part
+50,1,AB motor mount BottomRight,Printed part
+51,1,AB motor mount TopRight,Printed part
+52,1,Belt tensioner right,Printed part
+53,1,Front hold right,Printed part
+54,1,X carriage bottom left,Printed part
+55,1,X carriage bottom right,Printed part
+56,1,X carriage top left,Printed part
+57,1,X carriage top right,Printed part
+58,1,Bed support left,Printed part
+59,1,Bed support right,Printed part
+60,1,Bed support back,Printed part
+61,1,Right bed joint,Printed part
+62,1,Left bed joint,Printed part
+63,1,Back bed joint,Printed part
