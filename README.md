@@ -36,17 +36,17 @@
   </a>
 
   <h3 align="center">Duender mods, triple Z and more...</h3>
-
   <p align="center">
     Some thougths and mods for the duender project here.
+  </p>
+  <p>
+    The Duender project is created and developped by Irbis3D <a href="https://discord.com/channels/1341676245171048473/1354698746524598312">Discord server</a>
+  </p>
+    <!--
     <br />
     <br />
     <a href="https://github.com/tallothendill/duender/tree/71d104ec3dbbbacea63be96e859a8f34e3e835fc/Kinematic%203Z%20-%20in%20progress">Triple Z axis, with kinematic bed</a>
-    </p>
-    <p>
-      The Duender project is created and developped by Irbis3D <a href="https://discord.com/channels/1341676245171048473/1354698746524598312">Discord server</a>
-    </p>
-    <!--
+    </p>X
     &middot;
     <a href="https://github.com/tallothendill/duender/tree/c5b984b065c5a199969d3fe1e7d17b98502cc63b/mods">Mods & stl related to the duender manual</a>
     &middot;
