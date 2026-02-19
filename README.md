@@ -37,7 +37,7 @@
 
   <h3 align="center">Duender mods, triple Z and more...</h3>
   <p align="center">
-    Some thougths and mods for the duender project here. Note: this is NOT an official repo, just a user's working on it, thanks.
+    Some thougths and mods for the duender project here. Note: this is NOT an official repo, Irbis3D repo is <a href="https://github.com/Irbis3D">HERE</a>. Thanks.
   </p>
   <p>
     The Duender project is created and developped by Irbis3D <a href="https://discord.com/channels/1341676245171048473/1354698746524598312">Discord server</a>
